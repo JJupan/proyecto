@@ -10,12 +10,12 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona este repositorio a tu máquina local utilizando el siguiente comando:
 
-git clone <URL del repositorio>
+git clone "URL del repositorio"
 
 
 2. Navega al directorio del proyecto:
 
-cd <nombre del directorio>
+cd "nombre del directorio"
 
 
 3. Instala las dependencias utilizando npm:
