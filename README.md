@@ -1,4 +1,4 @@
-# Aplicación de Productos con JavaScript
+# Aplicación de Productos con JavaScript OOP
 
 Esta es una aplicación simple de CRUD (Crear, Leer, Actualizar, Eliminar) en el frontend usando JavaScript vanilla y Programación Orientada a Objetos (OOP) con características de Ecmascript 6+.
 
